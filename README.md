@@ -1,43 +1,47 @@
-# Static Website Hosting with GitHub Pages
+# Task 5: Host a Static Website with GitHub Pages
 
-## Project Overview
+## 📌 Objective
+To create and deploy a static website using HTML, CSS, GitHub, and GitHub Pages.
 
-This project demonstrates how to create and deploy a static website using GitHub Pages.
-
-## Objective
-
-To publish an HTML website online using GitHub Pages.
-
-## Technologies Used
-
-- HTML
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
 - Git
 - GitHub
 - GitHub Pages
 
-## Project Files
+## 💻 Project Description
+As part of my DevOps internship, I created a personal portfolio website
+using HTML and CSS.
 
-- index.html - Contains the structure and content of the website.
-- README.md - Documents the project and deployment process.
+The website presents my introduction, technical skills, projects,
+education, and achievements through a clean and responsive design.
 
-## Deployment Steps
+I used Git and GitHub for version control and GitHub Pages to deploy
+the website publicly.
 
-1. Created the index.html file.
-2. Initialized a Git repository.
-3. Committed the website files.
-4. Pushed the project to GitHub.
-5. Enabled GitHub Pages in repository Settings.
-6. Selected the main branch and root folder.
-7. Verified the published website.
+## ⚙️ Implementation Steps
+1. Created the portfolio website using HTML.
+2. Designed the website using CSS.
+3. Created a GitHub repository.
+4. Uploaded the project files using Git.
+5. Configured GitHub Pages from the main branch.
+6. Deployed the website and verified the live link.
+7. Updated the website and pushed the changes to GitHub.
 
-## Live Website
+## 🌐 Live Website
+https://anu-s2513.github.io/github-pages-portfolio/
 
-Paste your actual GitHub Pages URL here.
-
-## GitHub Repository
-
+## 📂 GitHub Repository
 https://github.com/Anu-S2513/github-pages-portfolio
 
-## Conclusion
+## 📚 Key Learnings
+- Creating a static website using HTML and CSS.
+- Managing project files with Git and GitHub.
+- Configuring GitHub Pages for website deployment.
+- Updating a deployed website through Git commits and pushes.
+- Understanding the basics of static website hosting.
 
-This project demonstrates how to publish a static website online for free using GitHub Pages.
+## ✅ Outcome
+Successfully created and deployed a personal portfolio website
+using GitHub Pages as part of my DevOps internship.
